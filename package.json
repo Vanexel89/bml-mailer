@@ -1,0 +1,10 @@
+{
+  "name": "bml-mailer",
+  "version": "1.0.0",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.16",
+    "cors": "^2.8.5"
+  }
+}
